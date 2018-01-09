@@ -1,5 +1,5 @@
-def my_each(array) 
-  
+def my_each(array)
+
 	index = 0
   while array[index]
     yield(array[index])
